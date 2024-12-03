@@ -43,6 +43,11 @@ RK Scenarios Months 6-12: <br/>
 <br />
 <br />
 
+<h2>Conclusion</h2>
+<p>
+While all methods are effective in their own right, scenario C stands above the rest for its balanced use and long-term effects.
+</p>
+
 <h2>Documents:</h2>
 <b>To be added later</b>
 
